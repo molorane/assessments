@@ -22,7 +22,7 @@ public class Diamond{
 				
 			);
 
-		topReflection = topReflection.replaceFirst();
+		//topReflection = topReflection.replaceFirst();
 		
 		// bottom reflection
 			/*java.util.StringTokenizer tokenizer = new java.util.StringTokenizer(new StringBuilder(topReflection).reverse().toString());
