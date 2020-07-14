@@ -1,3 +1,4 @@
+package assessment2;
 import java.io.*;
 
 public class Prog{

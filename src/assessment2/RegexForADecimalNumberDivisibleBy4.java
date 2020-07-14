@@ -1,3 +1,5 @@
+package assessment2;
+
 /*Regex for a decimal number divisible by 4
 3083% of 2156 of 61kolichj
 Python

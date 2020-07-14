@@ -55,6 +55,8 @@ EMPIRICAL DATA AND PHYSICAL POSTULATION THEREON
 *******
 *******/
 
+package assessment2;
+
 public class SpiralMatrix{
 	
 	//BigInteger version

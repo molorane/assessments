@@ -1,3 +1,5 @@
+package assessment2;
+
 //-	The solution excerpts from the 17th excercise of the Creative Excercises section of
 //-	https://introcs.cs.princeton.edu/java/23recursion/
 //-	solution URL: https://introcs.cs.princeton.edu/java/23recursion/Permutations.java.html

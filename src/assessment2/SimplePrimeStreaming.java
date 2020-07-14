@@ -1,3 +1,6 @@
+package assessment2;
+
+
 /*Simple Prime Streaming
 13386% of 7434 of 233KenKamau
 

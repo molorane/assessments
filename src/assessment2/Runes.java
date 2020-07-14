@@ -125,6 +125,8 @@ Note that the example above excludes the punctuation and spaces just for simplic
 
 */
 
+package assessment2;
+
 public class Runes {
 
 	public static int solveExpression( final String expression ) {

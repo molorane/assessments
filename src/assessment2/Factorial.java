@@ -1,3 +1,5 @@
+package assessment2;
+
 public class Factorial{
 	private static String factorial(int n){
 		if(n==0) return "1";

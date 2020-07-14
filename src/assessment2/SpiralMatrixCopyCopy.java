@@ -67,6 +67,8 @@ EMPIRICAL DATA AND PHYSICAL POSTULATION THEREON
 *******
 *******/
 
+package assessment2;
+
 public class SpiralMatrix{
 	public static int[][] getPattern(final int n){
 	

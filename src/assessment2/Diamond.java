@@ -1,3 +1,5 @@
+package assessment2;
+
 public class Diamond{
 	public static String print(final int level){
 		if(level<0 || level%2==0) return null;

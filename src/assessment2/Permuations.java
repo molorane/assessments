@@ -1,4 +1,6 @@
-public class Permutations{
+package assessment2;
+
+public class Permuations{
 	static private String permutate_(String s){
 		if("".equals(s)) return "";
 		

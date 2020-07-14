@@ -38,6 +38,9 @@ Unfortunately, this series converges too slowly to be useful, as it takes over 3
 About PI : http://www.geom.uiuc.edu/~huberty/math5337/groupe/expresspi.html
 */
 
+package assessment2;
+
+
 public class PIApproximation extends java.util.concurrent.RecursiveAction {
 	
 	//- The number 224711 certainly is prime

@@ -1,3 +1,5 @@
+package assessment2;
+
 public class Thread04 
 {
 	private static long prime;

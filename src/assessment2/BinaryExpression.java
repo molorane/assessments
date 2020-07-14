@@ -1,3 +1,5 @@
+package assessment2;
+
 /*
 Regular expression for binary numbers divisible by 5
 601790% of 129111 of 405aswitalski

@@ -1,3 +1,5 @@
+package assessment2;
+
 public class Diamond1{
 	public static String print(final int n){
 		

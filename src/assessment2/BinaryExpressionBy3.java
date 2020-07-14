@@ -1,3 +1,5 @@
+package assessment2;
+
 /*Binary multiple of 3
 2633988% of 368614 of 2,051rsalgado
 Java

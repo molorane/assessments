@@ -1,3 +1,5 @@
+package assessment2;
+
 public class Reference{
 	public static void main(String ... args){
 		Integer integer = new Integer("0");

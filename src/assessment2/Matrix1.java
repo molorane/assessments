@@ -1,3 +1,5 @@
+package assessment2;
+
 public class Matrix1{
 	public static void enter(){
 		//throw (

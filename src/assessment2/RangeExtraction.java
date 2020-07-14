@@ -1,3 +1,5 @@
+package assessment2;
+
 /*(Range Extraction
 3376288% of 972710 of 6,733jhoffner
 Java

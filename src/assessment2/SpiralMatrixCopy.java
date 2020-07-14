@@ -115,6 +115,10 @@ public class SpiralizorTests {
 0000000000	[1,1,1,1,1,1,1,1,1,1]//p0 = Integer.toBinaryString(2^10-1)
 *******
 *******/
+
+package assessment2;
+
+
 public class SpiralMatrix{
 	public static int[][] getPattern(final int n){
 		

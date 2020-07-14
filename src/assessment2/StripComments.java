@@ -1,3 +1,5 @@
+package assessment2;
+
 /*Strip Comments
 3695481% of 1,102406 of 8,627jhoffner
 Java

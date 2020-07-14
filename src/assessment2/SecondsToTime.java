@@ -1,3 +1,4 @@
+package assessment2;
 
 //Human readable duration format
 public class SecondsToTime {

@@ -85,6 +85,8 @@ So, the function should return
 This kata is based on the Advent of Code 2016 - day 12
 */
 
+package assessment2;
+
 public class SimpleAssemblerInterpreter{
   //- store regex patterns of instruction
 	//- each dictionary key associates with at most one value

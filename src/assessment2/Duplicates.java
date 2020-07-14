@@ -1,3 +1,5 @@
+package assessment2;
+
 /*
 import java.util.stream.Collectors;
 

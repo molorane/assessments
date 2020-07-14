@@ -1,3 +1,5 @@
+package assessment2;
+
 public class ByteToDecimalConversion{
 	public static void main(String ... args) throws Exception{
 		final byte b = -65;

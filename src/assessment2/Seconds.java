@@ -1,3 +1,6 @@
+package assessment2;
+
+
 public class Seconds{
 	private static String format(final long seconds){
 		//java.tim.Duration does not take leap years into account; it is java.util.Calendar that does

@@ -1,4 +1,4 @@
-package assessment19.pkg2a;
+package assessment2;
 
 public class ProblemA015 {
 

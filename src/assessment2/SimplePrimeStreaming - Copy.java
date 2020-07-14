@@ -26,6 +26,9 @@
 
     Please also try Simple time difference
 */
+
+package assessment2;
+
 public class SimplePrimeStreaming extends java.util.concurrent.RecursiveAction {
 	
 	//- The number 224711 certainly is prime

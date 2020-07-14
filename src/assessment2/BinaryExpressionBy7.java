@@ -1,3 +1,5 @@
+package assessment2;
+
 /*Regular Expression - Check if divisible by 0b111 (7)
 1012091% of 12364 of 396Hacker Sakana
 Java

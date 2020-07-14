@@ -1,3 +1,4 @@
+
 /*
 Rail Fence Cipher: Encoding and Decoding
 1182295% of 19393 of 764darrentburgess
@@ -42,6 +43,7 @@ For both encoding and decoding, assume number of rails >= 2 and that passing an 
 Note that the example above excludes the punctuation and spaces just for simplicity. There are, however, tests that include punctuation. Don't filter out the punctuation as they are a part of the string.
 
 */
+package assessment2;
 
 public class Cipher{
 	private static String encode(final String message, final int numberOfRails){

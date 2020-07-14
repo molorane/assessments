@@ -1,3 +1,5 @@
+package assessment2;
+
 /*Prime Streaming (PG-13)
 821594% of 152404 of 575jcsahnwaldt
 Java

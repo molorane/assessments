@@ -1,3 +1,5 @@
+package assessment2;
+
 /*Going to zero or to infinity?
 2832984% of 324461 of 2,026g964
 
